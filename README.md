@@ -11,7 +11,7 @@ Web面板(一键手机建站)，部署原汁原味的GNU/Linux发行版，部署
 <h1>安装方法</h1>
 1.下载<a href=http://f-droid.org/en/packages/com.termux/>Termux</a>安装并打开
 <br>
-2.在Termux中输入:wget https://assets.huoyinetwork.cn/Flyos/2.0/setup.sh && sh setup.sh
+2.在Termux中输入:wget https://assets.huoyinetwork.cn/Flyos/2.8/setup.sh && sh setup.sh
 <br>
 3.开始安装
 <h1>关于</h1>
